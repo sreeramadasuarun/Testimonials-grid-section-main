@@ -104,7 +104,7 @@ body {
 .feedback {
   font-size: 1.3rem;
 }
-@media (max-width: 990px) {
+@media (max-width: 868px) {
   .grid-container {
     width: 24rem;
     display: flex;
