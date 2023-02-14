@@ -101,6 +101,9 @@ body {
   line-height: 1.4rem;
 }
 
+.feedback {
+  font-size: 1.3rem;
+}
 @media (max-width: 990px) {
   .grid-container {
     width: 20rem;
