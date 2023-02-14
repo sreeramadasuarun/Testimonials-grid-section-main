@@ -106,7 +106,7 @@ body {
 }
 @media (max-width: 990px) {
   .grid-container {
-    width: 20rem;
+    width: 24rem;
     display: flex;
     flex-direction: column;
     gap: 2rem;
